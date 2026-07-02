@@ -56,6 +56,7 @@ O fluxo: o **Product Backlog** (artefato, mantido pelo PO) alimenta a **Sprint P
 - [Scrum Guide 2020 (Schwaber & Sutherland)](https://scrumguides.org/)
 - [Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 - [Scrum.org](https://www.scrum.org/)
+- https://miro.com/app/board/uXjVH_EsbTs=/?share_link_id=691735009544
 
 ---
 
